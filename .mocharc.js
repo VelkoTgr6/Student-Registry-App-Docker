@@ -7,7 +7,7 @@ colors.fail = 33;
 colors["error stack"] = 36;
 colors["error message"] = 33;
 
-// Example config from Mocha repo    SAME CHAnge   
+// Example config from Mocha repo   
 module.exports = {
     diff: true,
     extension: ['js'],
